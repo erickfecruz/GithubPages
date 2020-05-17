@@ -11,8 +11,4 @@ user_title: Desenvolvedor de Software </br> Cientista de Dados
 email: erickfecruz@hotmail.com
 github_username:  erickfecruz
 
-# Google-analytics
-google-analytics:
-  id: ""
-
 exclude: ['package.json', 'src' , 'node_modules']
