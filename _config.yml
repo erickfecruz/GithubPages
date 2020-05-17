@@ -1,0 +1,18 @@
+# Site settings
+title: Erick Cruz
+description: My portfolio
+# baseurl: GithubPages
+# url: erickfecruz@github.io
+
+# User settings
+username: Erick Cruz
+user_description: Existem diversas definições sobre o que é um programador. <br> Porém a que eu acho mais adequada é <b>"Resolvedor de Problemas"</b>. <br>E foi baseado nessa definição que me apaixonei pela área! <br> <br> Iniciei minha formação na <b>Universidade Federal do ABC (UFABC)</b>, onde cursei os cursos de <b>Bacharelado em Ciência e Tecnologia</b> e <b>Bacharelado em Ciência da Computação</b>. Essas experiências permitiram não apenas me especializar na área da computação, mas também uma vivência ampla com professores e alunos de diferentes áreas da ciência.<br><br>Após finalizar a graduação decidi entrar no mercado de trabalho, e me tornei <b>Desenvolvedor de Software</b> na <b>Ambra Gaming</b>, onde trabalhei com desenvolvimento de jogos e projetos em <b>C++</b>.<br><br>Durante este período na empresa recebi um convite do meu professor para entrar em um projeto do <b>Mestrado em Ciência da Computação</b> novamente na <b>UFABC</b>, porém devido ao conflito de horário das aulas com o trabalho tive que interromper meu contrato. Por causa do meu bom desempenho nas disciplinas fui presenteado com um financiamento do meu projeto pela <b>Capes</b>.<br><br>Atualmente estou finalizando minha tese de mestrado na área de <b>Processamento de Imagens</b> e voltei a trabalhar na <b>Ambra Gaming</b> como <b>Gerente de Projetos de Software</b> e desenvolvedor, coordenando uma equipe de programadores no desenvolvimento de novos produtos.<br><br>Nas horas vagas busco de me aperfeiçoar nas áreas de <b>Ciência de Dados</b> e <b>Machine Learning</b>, que são essenciais em um mundo como o que vivemos com uma quantidade gigantesca de dados.
+user_title: Desenvolvedor de Software </br> Cientista de Dados
+email: erickfecruz@hotmail.com
+github_username:  erickfecruz
+
+# Google-analytics
+google-analytics:
+  id: ""
+
+exclude: ['package.json', 'src' , 'node_modules']
