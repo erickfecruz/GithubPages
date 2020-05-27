@@ -1,12 +1,12 @@
 {
-  "name": "particle",
-  "version": "1.0.0",
+  "name": "erick-portfolio",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "gulp"
   },
-  "author": "Nathan Randecker",
+  "author": "Erick Cruz",
   "license": "ISC",
   "dependencies": {
     "browser-sync": "^2.26.3",
