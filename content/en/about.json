@@ -1,0 +1,45 @@
+{
+  "name": "Erick Cruz",
+  "bio_paragraphs": [
+    "Senior Software Engineer focused on high-scale game systems, with experience in C++, C#, Unity3D, multiplayer, LiveOps, and backend across titles with millions of concurrent players. Also builds AI tools to speed up development and code quality analysis.",
+    "MSc in Computer Science (UFABC, 2020), previously Tech Lead at Ambra Gaming, currently Senior Game Engineer at Wildlife Studios."
+  ],
+  "stats": [
+    {
+      "value": "10+",
+      "label": "YRS EXP."
+    },
+    {
+      "value": "7+",
+      "label": "PUBLISHED GAMES"
+    },
+    {
+      "value": "MSc",
+      "label": "UFABC 2020"
+    },
+    {
+      "value": "GGJ",
+      "label": "GAME JAM 2020"
+    }
+  ],
+  "current_company": "Wildlife Studios",
+  "current_role": "Senior Game Engineer",
+  "current_location": "Santo André, SP, BR",
+  "skills_primary": [
+    "Unity3D",
+    "C#",
+    "C++",
+    "Fullstack",
+    "Game Dev",
+    "AI Engineer"
+  ],
+  "skills_secondary": [
+    "Unreal",
+    "LiveOps",
+    "Multiplayer",
+    "Typescript",
+    "Golang",
+    "Python",
+    "PHP"
+  ]
+}

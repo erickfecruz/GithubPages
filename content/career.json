@@ -1,0 +1,86 @@
+{
+  "entries": [
+    {
+      "role": "Senior Game Engineer",
+      "company": "Wildlife Studios",
+      "period": "2021 → PRESENTE",
+      "location": "São Paulo, SP · Remoto",
+      "active": true,
+      "description": "War Machines, Midas Merge, Paradise Paws e Time Blast.<br>Desenvolvimento de features de gameplay em C# e Unity3D, sistemas LiveOps, backend em Golang e Typescript, e ferramentas internas com uso de IA (Claude, Gemini, Cursor) para jogos mobile em escala global.",
+      "tags": [
+        "C#",
+        "Unity3D",
+        "LiveOps",
+        "Golang",
+        "Typescript"
+      ],
+      "tags_secondary": [
+        "AI",
+        "Python",
+        "Mobile"
+      ]
+    },
+    {
+      "role": "Tech Lead & Dev Pleno",
+      "company": "Ambra Gaming",
+      "period": "2019 → 2021",
+      "location": "São Paulo, BR",
+      "active": false,
+      "description": "Propus e arquitetei a nova plataforma de jogos da empresa em Unity3D como Tech Lead.<br>Responsável pelo planejamento de arquitetura, desenvolvimento frontend em Unity3D e C#, e backend em PHP (Laravel) e Python.",
+      "tags": [
+        "C#",
+        "Unity3D"
+      ],
+      "tags_secondary": [
+        "PHP/Laravel",
+        "Python",
+        "OpenGL"
+      ]
+    },
+    {
+      "role": "MSc Ciência da Computação",
+      "company": "UFABC",
+      "period": "2018 → 2020",
+      "location": "Santo André, SP",
+      "active": false,
+      "description": "Mestrado com ênfase em Computação Gráfica e Processamento de Imagens.<br>Projeto: Segmentação Assistida em Imagens de Alta Resolução. Financiado pela CAPES por desempenho acadêmico.",
+      "tags": [
+        "C++",
+        "Computer Graphics"
+      ],
+      "tags_secondary": []
+    },
+    {
+      "role": "Dev Júnior → Pleno",
+      "company": "Ambra Gaming",
+      "period": "2016 → 2018",
+      "location": "São Paulo, BR",
+      "active": false,
+      "description": "Bingo All Stars, Ambra All Stars e Flash Link desenvolvidos em C++ e OpenGL.<br>Crescimento de júnior a pleno durante o período.",
+      "tags": [
+        "C++",
+        "OpenGL"
+      ],
+      "tags_secondary": [
+        "Laravel/PHP",
+        "Casino Games"
+      ]
+    },
+    {
+      "role": "Estágio em Desenvolvimento",
+      "company": "NTE / UFABC",
+      "period": "2016",
+      "location": "Santo André, SP",
+      "active": false,
+      "description": "Núcleo de Tecnologias Educacionais da UFABC.<br>Desenvolvimento de jogos e aplicações educacionais. Bacharelado em C&T + Ciência da Computação concluídos em 2017.",
+      "tags": [
+        "Unity3D",
+        "HTML",
+        "CSS"
+      ],
+      "tags_secondary": [
+        "Javascript"
+      ]
+    }
+  ]
+}

@@ -1,5 +1,22 @@
-_site
-.sass-cache
-node_modules
-.DS_STORE
-*.md
+# Build output (Jekyll legacy)
+_site/
+.sass-cache/
+
+# Dependencies
+node_modules/
+vendor/
+
+# Python
+scripts/__pycache__/
+*.pyc
+*.pyo
+
+# Jekyll cache
+.jekyll-cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude (keep only CLAUDE.md)
+.claude/

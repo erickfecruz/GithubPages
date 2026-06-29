@@ -1,0 +1,86 @@
+{
+  "entries": [
+    {
+      "role": "Senior Game Engineer",
+      "company": "Wildlife Studios",
+      "period": "2021 → PRESENT",
+      "location": "São Paulo, SP · Remote",
+      "active": true,
+      "description": "War Machines, Midas Merge, Paradise Paws, and Time Blast.<br>Gameplay feature development in C# and Unity3D, LiveOps systems, Golang and Typescript backend, and internal tooling with AI (Claude, Gemini, Cursor) for mobile games at global scale.",
+      "tags": [
+        "C#",
+        "Unity3D",
+        "LiveOps",
+        "Golang",
+        "Typescript"
+      ],
+      "tags_secondary": [
+        "AI",
+        "Python",
+        "Mobile"
+      ]
+    },
+    {
+      "role": "Tech Lead & Mid Developer",
+      "company": "Ambra Gaming",
+      "period": "2019 → 2021",
+      "location": "São Paulo, BR",
+      "active": false,
+      "description": "Proposed and architected the company's new game platform in Unity3D as Tech Lead.<br>Owned architecture planning, Unity3D / C# frontend development, and PHP (Laravel) / Python backend.",
+      "tags": [
+        "C#",
+        "Unity3D"
+      ],
+      "tags_secondary": [
+        "PHP/Laravel",
+        "Python",
+        "OpenGL"
+      ]
+    },
+    {
+      "role": "MSc Computer Science",
+      "company": "UFABC",
+      "period": "2018 → 2020",
+      "location": "Santo André, SP",
+      "active": false,
+      "description": "Master's degree with emphasis on Computer Graphics and Image Processing.<br>Thesis: Assisted Segmentation in High-Resolution Images. CAPES-funded fellowship for academic performance.",
+      "tags": [
+        "C++",
+        "Computer Graphics"
+      ],
+      "tags_secondary": []
+    },
+    {
+      "role": "Junior → Mid Developer",
+      "company": "Ambra Gaming",
+      "period": "2016 → 2018",
+      "location": "São Paulo, BR",
+      "active": false,
+      "description": "Bingo All Stars, Ambra All Stars, and Flash Link developed in C++ and OpenGL.<br>Grew from junior to mid-level engineer during this period.",
+      "tags": [
+        "C++",
+        "OpenGL"
+      ],
+      "tags_secondary": [
+        "Laravel/PHP",
+        "Casino Games"
+      ]
+    },
+    {
+      "role": "Dev Intern",
+      "company": "NTE / UFABC",
+      "period": "2016",
+      "location": "Santo André, SP",
+      "active": false,
+      "description": "Educational Technology Center at UFABC.<br>Development of educational games and applications. B.Sc. in Science & Technology + Computer Science completed in 2017.",
+      "tags": [
+        "Unity3D",
+        "HTML",
+        "CSS"
+      ],
+      "tags_secondary": [
+        "Javascript"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "groups": [
+    {
+      "label": "GAME ENGINEERING",
+      "skills": [
+        "Unity3D / C#",
+        "C++",
+        "Unreal Engine",
+        "LiveOps Systems",
+        "Computer Graphics",
+        "System Architecture"
+      ]
+    },
+    {
+      "label": "BACKEND & WEB",
+      "skills": [
+        "NodeJS",
+        "Typescript",
+        "Python"
+      ]
+    },
+    {
+      "label": "DADOS & INFRAESTRUTURA",
+      "skills": [
+        "AWS",
+        "MySQL",
+        "MongoDB",
+        "Redis"
+      ]
+    },
+    {
+      "label": "CONTROLE DE VERSÃO",
+      "skills": [
+        "Git",
+        "Perforce"
+      ]
+    },
+    {
+      "label": "FERRAMENTAS DE IA",
+      "skills": [
+        "Cursor",
+        "Claude",
+        "Gemini"
+      ]
+    }
+  ],
+  "achievements": [
+    "Company All-Hands Kudos · Wildlife Studios",
+    "7+ Jogos Publicados",
+    "MSc Ciência da Computação (Computação Gráfica) · UFABC",
+    "Bolsa CAPES"
+  ]
+}
